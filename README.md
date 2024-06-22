@@ -49,6 +49,8 @@
 
 
 
+<img style="display: block; margin: 0 auto;"  src="https://github.com/OnlineLearningOfficial1/OnlineLearningOfficial1/blob/main/Untitled%20design%20(2).gif" height= "200" width= "1000">
+
 
 <img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/student%20review.jpg?raw=true" height= "150" align= "right" width= "300">
 <h4 align= "left">Contact Number:</h4>
