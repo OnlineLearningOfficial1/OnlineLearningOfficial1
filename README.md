@@ -64,9 +64,8 @@
 <p></p>Take the first step towards a brighter future with Online Learning Official. Whether you are an aspiring IT professional, a seasoned developer, or a high school student aiming for academic excellence, we have the courses and resources to help you succeed. Enroll today and embark on a journey of learning, growth, and transformation. Together, we can achieve greatness.</p>
 
 
-
-<img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/student%20review.jpg?raw=true" height= "150" align= "right" width= "300">
-<h4 align= "left">Contact Number:</h4>
-<h4 align= "left">Gmail ID:</h4>
-<h4 align= "left">Instagram:</h4><br>
-<h5 align= "right">Student Review</h5>
+<h1 align="left"><b>Connect with Team:</b></h1>
+<p align="left">
+<a href="https://www.linkedin.com/company/onlinelearningofficial/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayyysharma" height="30" width="40" /></a>  <a href="https://www.instagram.com/online_learning_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayyysharma" height="30" width="40" /></a>
+<a href="https://udayyysharma.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devopswithuday" height="30" width="40" /></a>
+</p>
