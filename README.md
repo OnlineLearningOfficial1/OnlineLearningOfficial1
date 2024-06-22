@@ -5,7 +5,7 @@
 
 
 <h1><b>IT and Developer Courses</b></h1>
-<p><img width="480" align="right" src="https://github-readme-stats.vercel.app/api?username=al-one&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true">At Online Learning Official, we recognize the fast-paced evolution of the IT industry and the growing demand for skilled professionals. Our comprehensive IT and Developer courses are designed to equip you with the knowledge and hands-on experience necessary to thrive in this dynamic field. Here's what we offer</p><br>
+<p><img width="480" align="right" src="https://github.com/OnlineLearningOfficial1/OnlineLearningOfficial1/blob/main/Untitled%20design.gif">At Online Learning Official, we recognize the fast-paced evolution of the IT industry and the growing demand for skilled professionals. Our comprehensive IT and Developer courses are designed to equip you with the knowledge and hands-on experience necessary to thrive in this dynamic field. Here's what we offer</p><br>
 <p><b>DevOps</b></p>
 <p>Our DevOps course covers the essential principles and practices of DevOps, helping you understand the integration of development and operations to improve collaboration and productivity. Learn about continuous integration, continuous delivery, automation, and monitoring to streamline your development process.</p>
 
