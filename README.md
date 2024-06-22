@@ -1,4 +1,4 @@
-  <img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/online-education-bright-banner-vector.jpg" height= "200" width= "1000">
+<img style="display: block; margin: 0 auto;"  src="https://github.com/OnlineLearningOfficial1/OnlineLearningOfficial1/blob/main/OnlineLearning.gif" height= "200" width= "1000">
 <h4 align="center">Grammarly is the AI writing partner that helps you develop your essay ideas and submit assignments with confidence. Ensure your writing is clear, polished, and plagiarism-free while getting AI-powered suggestions on how to improve thesis statements, introductions, and beyond.</h4>
 <h4 align="center">Pollution is the introduction of contaminants into the natural environment that cause adverse change.[1] Pollution can take the form of any substance (solid, liquid, or gas) or energy (such as radioactivity, heat, sound, or light). Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants.</h4>
 
