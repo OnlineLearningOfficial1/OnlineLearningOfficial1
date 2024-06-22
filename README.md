@@ -16,19 +16,12 @@
 <p><b>Academic Courses for Grades 11 and 12</b></p>
 <p>We understand the importance of a strong foundation in core subjects for high school students. Our academic courses for grades 11 and 12 are designed to help students excel in their studies and prepare for future academic endeavors.</p>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Mathematics</li>
+  <li>Physics</li>
+  <li>Chemistry</li>
 </ul>
-
-
-
-
-gineer, I have had the opportunity to work on several notable projects. One of my most recent projects involved deploying a three-tier application on AWS EKS (Managed Kubernetes Service). In this project, I utilized Kubernetes for orchestrating the application containers, AWS ALB for load balancing, and integrated domain management for accessibility. My responsibilities included creating Dockerfiles for the ReactJS and NodeJS components, building the images, and storing them in AWS ECR. I also deployed the Docker images to AWS EKS, configured the front-end, back-end, and database services to communicate with each other, and set up an Ingress controller for external access.
-
-Another significant project I worked on involved setting up a Jenkins CI/CD pipeline for a Node.js application with a focus on DevSecOps practices. In this project, I containerized the application using Docker, orchestrated with Docker Compose, integrated SonarQube for automated code quality checks, used OWASP tools for automated security testing, and implemented Trivy for Docker image vulnerability scanning. My goal was to automate the deployment process while ensuring high standards of code quality, security, and best development practices.</p> 
-
-
+<br>
+<br>
 
 <img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/Coding%20pic.jpg?raw=true" height= "200" width= "1000">
 <img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/student%20review.jpg?raw=true" height= "150" align= "right" width= "300">
